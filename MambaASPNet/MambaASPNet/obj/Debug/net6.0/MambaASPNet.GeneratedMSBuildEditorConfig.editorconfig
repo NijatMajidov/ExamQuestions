@@ -9,63 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MambaASPNet
 build_property.RootNamespace = MambaASPNet
-build_property.ProjectDir = C:\Users\user\Desktop\MambaASPNet\MambaASPNet\
+build_property.ProjectDir = C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\MambaASPNet\MambaASPNet
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Areas/Manage/Views/DashBoard/Index.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Areas/Manage/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hCb2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Areas/Manage/Views/Team/Create.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Areas/Manage/Views/Team/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Areas/Manage/Views/Team/Delete.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Areas/Manage/Views/Team/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Areas/Manage/Views/Team/Index.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Areas/Manage/Views/Team/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Areas/Manage/Views/Team/Update.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Areas/Manage/Views/Team/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFRlYW1cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Views/Home/Index.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Views/_ViewImports.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Views/_ViewStart.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/MambaASPNet/MambaASPNet/Views/Shared/_Layout.cshtml]
+[C:/Users/user/Desktop/ExamQuestions/MambaASPNet/MambaASPNet/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-uscy22wbtf

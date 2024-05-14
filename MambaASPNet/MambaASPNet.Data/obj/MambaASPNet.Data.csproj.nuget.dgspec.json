@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Data\\MambaASPNet.Data.csproj": {}
+    "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Data\\MambaASPNet.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj": {
+    "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj",
         "projectName": "MambaASPNet.Core",
-        "projectPath": "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Core\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,10 @@
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
               "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.30, )"
             }
           },
           "imports": [
@@ -74,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Data\\MambaASPNet.Data.csproj": {
+    "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Data\\MambaASPNet.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Data\\MambaASPNet.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Data\\MambaASPNet.Data.csproj",
         "projectName": "MambaASPNet.Data",
-        "projectPath": "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Data\\MambaASPNet.Data.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Data\\MambaASPNet.Data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Data\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +106,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj"
+              "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\ExamQuestions\\MambaASPNet\\MambaASPNet.Core\\MambaASPNet.Core.csproj"
               }
             }
           }
@@ -123,6 +127,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.30, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.30, )"

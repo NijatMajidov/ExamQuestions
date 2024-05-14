@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MambaASPNet.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9cecdc5b21fae5bc0a09d4cbe994d5e97de6bad")]
 [assembly: System.Reflection.AssemblyProductAttribute("MambaASPNet.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MambaASPNet.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

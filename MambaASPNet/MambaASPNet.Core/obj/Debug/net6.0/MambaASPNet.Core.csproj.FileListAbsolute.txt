@@ -10,3 +10,16 @@ C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\refint\Mamba
 C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.pdb
 C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\ref\MambaASPNet.Core.dll
 C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\bin\Debug\net6.0\MambaASPNet.Core.deps.json
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\bin\Debug\net6.0\MambaASPNet.Core.dll
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\bin\Debug\net6.0\MambaASPNet.Core.pdb
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.sourcelink.json
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.dll
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\refint\MambaASPNet.Core.dll
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\MambaASPNet.Core.pdb
+C:\Users\user\Desktop\ExamQuestions\MambaASPNet\MambaASPNet.Core\obj\Debug\net6.0\ref\MambaASPNet.Core.dll
