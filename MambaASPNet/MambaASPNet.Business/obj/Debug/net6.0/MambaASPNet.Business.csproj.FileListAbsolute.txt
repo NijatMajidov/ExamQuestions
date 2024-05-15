@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\bin\Debug\net6.0\MambaASPNet.Business.deps.json
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\bin\Debug\net6.0\MambaASPNet.Business.dll
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\bin\Debug\net6.0\MambaASPNet.Business.pdb
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\bin\Debug\net6.0\MambaASPNet.Core.dll
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\bin\Debug\net6.0\MambaASPNet.Data.dll
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\bin\Debug\net6.0\MambaASPNet.Data.pdb
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\bin\Debug\net6.0\MambaASPNet.Core.pdb
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\MambaASPNet.Business.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\MambaASPNet.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\MambaASPNet.Business.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\MambaASPNet.Business.AssemblyInfo.cs
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\MambaASPNet.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\MambaASP.FE8F9075.Up2Date
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\MambaASPNet.Business.dll
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\refint\MambaASPNet.Business.dll
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\MambaASPNet.Business.pdb
+C:\Users\user\Desktop\MambaASPNet\MambaASPNet.Business\obj\Debug\net6.0\ref\MambaASPNet.Business.dll
